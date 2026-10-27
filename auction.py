@@ -792,4 +792,4 @@ async def show_all_teams(ctx):
 
 
 
-bot.run("MTMwNzY2MDc1Nzc4NTEyMDc3OA.GsFJWn.2MYwftudSxkaCgG8Ak96SxxhXmXZg4gX0KjKqo")
+bot.run("MTo")
